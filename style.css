@@ -1,10 +1,35 @@
 body {
-  font-family: 'helvetica neue', freestyle script, sans-serif;
-  font-weight: 300;
-  background-image: url(linedpaper.png);
+  font-family: 'helvetica neue', segoe print, sans-serif;
+  font-weight: 100;
+  background-color: #000026;
   background-repeat: repeat;
 }
 #wrapper {
   width: 960px;
   margin: 20px auto 20px auto;
+}
+h1 {
+  color: darkgrey;
+  font-size: 50px;
+}
+h1 {
+  text-shadow: 1px 1px 1px black;
+}
+h2 {
+  color: darkgrey;
+}
+h2 {
+  text-shadow: 1px 1px 1px black;
+}
+h3 {
+  color: darkgrey;
+}
+h4 {
+  color: darkgrey;
+}
+li {
+    color: darkgrey;
+}
+p {
+    color: darkgrey;
 }
