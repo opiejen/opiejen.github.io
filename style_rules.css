@@ -1,7 +1,7 @@
 body {
   font-family: 'arial', segoe print, sans-serif;
   font-weight: 100;
-  background-image: url("hawks words.jpg");
+  background-color: white;
   background-repeat: repeat;
 }
 #wrapper {
@@ -10,6 +10,7 @@ body {
 }
 h1 {
   color: white;
+  font-size: 50px;
 }
 h1 {
   text-shadow: 1px 1px 1px white;
