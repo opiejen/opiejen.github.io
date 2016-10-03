@@ -1,7 +1,17 @@
-body {
+body.home {
   font-family: 'arial', segoe print, sans-serif;
   font-weight: 100;
   background-image: url("hawks words.jpg");
+  background-repeat: repeat;
+}
+#wrapper {
+  width: 960px;
+  margin: 20px auto 20px auto;
+}
+body.other {
+  font-family: 'arial', segoe print, sans-serif;
+  font-weight: 100;
+  background-color: white;
   background-repeat: repeat;
 }
 #wrapper {
