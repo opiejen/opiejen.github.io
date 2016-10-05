@@ -18,9 +18,14 @@ body.other {
 #wrapper {
   width: 960px;
   margin: 20px auto 20px auto;
+  margin-right: 0px;
+  margin-left: 150px;
 }
 h1 {
   color: white;
+}
+h1 {
+  text-align: center;
 }
 h1 {
   text-shadow: 1px 1px 1px white;
@@ -48,4 +53,8 @@ p {
   border-top-right-radius: 50% 50%;
   border-bottom-right-radius: 50% 50%;
   border-bottom-left-radius: 50% 50%;
+}
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
 }
