@@ -1,9 +1,10 @@
 body.home {
   font-family: 'arial', segoe print, sans-serif;
-  font-weight: 50;
+  font-weight: 100;
   color: white;
   background-image: url("hawks words.jpg");
   background-repeat: repeat;
+  text-align: center;
 }
 #wrapper {
   width: 960px;
