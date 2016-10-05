@@ -5,6 +5,7 @@ body.home {
   background-image: url("hawks words.jpg");
   background-repeat: repeat;
   text-align: center;
+  padding-right: 7cm;
 }
 #wrapper {
   width: 960px;
